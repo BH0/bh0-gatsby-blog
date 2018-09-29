@@ -1,36 +1,104 @@
 {
   "assetsByChunkName": {
-    "path---test-post": [
-      "path---test-post-c1133e3a3c24182858d5.js",
-      "path---test-post-c1133e3a3c24182858d5.js.map"
+    "path---html-css-traffic-lights-1": [
+      "path---html-css-traffic-lights-1-21249c848ec49e89830d.js",
+      "path---html-css-traffic-lights-1-21249c848ec49e89830d.js.map"
+    ],
+    "path---program-for-fifteen-minutes": [
+      "path---program-for-fifteen-minutes-51022a94fa7bad3690bd.js",
+      "path---program-for-fifteen-minutes-51022a94fa7bad3690bd.js.map"
+    ],
+    "path---html-js-swear-word-detector": [
+      "path---html-js-swear-word-detector-d6f9d8743bc41dadda8e.js",
+      "path---html-js-swear-word-detector-d6f9d8743bc41dadda8e.js.map"
+    ],
+    "path---yii-quick-setup-php": [
+      "path---yii-quick-setup-php-5d0ebd8e67464744abaf.js",
+      "path---yii-quick-setup-php-5d0ebd8e67464744abaf.js.map"
     ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-78f7d9d6e71e550e7717.js",
-      "component---src-pages-index-js-78f7d9d6e71e550e7717.js.map"
+      "component---src-pages-index-js-58b941226aada08694d6.js",
+      "component---src-pages-index-js-58b941226aada08694d6.js.map"
+    ],
+    "path---a-very-insecure-ajax-social-network": [
+      "path---a-very-insecure-ajax-social-network-b4f915cc3f40ec68245a.js",
+      "path---a-very-insecure-ajax-social-network-b4f915cc3f40ec68245a.js.map"
+    ],
+    "path---learn-the-basics-of-brainfuck-and-pseudocode": [
+      "path---learn-the-basics-of-brainfuck-and-pseudocode-f59eccd6d8bba412de5e.js",
+      "path---learn-the-basics-of-brainfuck-and-pseudocode-f59eccd6d8bba412de5e.js.map"
+    ],
+    "path---visual-basic-introduction-guess-my-number": [
+      "path---visual-basic-introduction-guess-my-number-dbfbb24b75be9fb8fa42.js",
+      "path---visual-basic-introduction-guess-my-number-dbfbb24b75be9fb8fa42.js.map"
     ],
     "path---": [
       "path----5277639caf9b52094069.js",
       "path----5277639caf9b52094069.js.map"
     ],
+    "path---a-simplified-introduction-to-objects-in-javascript": [
+      "path---a-simplified-introduction-to-objects-in-javascript-3bf8c09df8264b57ae64.js",
+      "path---a-simplified-introduction-to-objects-in-javascript-3bf8c09df8264b57ae64.js.map"
+    ],
     "path---archives": [
-      "path---archives-ecad0679f7acfbcb0867.js",
-      "path---archives-ecad0679f7acfbcb0867.js.map"
+      "path---archives-0ae8e3ccefdab3b0cbb4.js",
+      "path---archives-0ae8e3ccefdab3b0cbb4.js.map"
+    ],
+    "path---rush-or-take-time-coding": [
+      "path---rush-or-take-time-coding-b050ed9e3df51f4f0981.js",
+      "path---rush-or-take-time-coding-b050ed9e3df51f4f0981.js.map"
+    ],
+    "path---theres-two-javascripts": [
+      "path---theres-two-javascripts-ac0306a6d3654e9b1040.js",
+      "path---theres-two-javascripts-ac0306a6d3654e9b1040.js.map"
+    ],
+    "path---windows-form-c-sound-player-app": [
+      "path---windows-form-c-sound-player-app-15000215660863cdd5eb.js",
+      "path---windows-form-c-sound-player-app-15000215660863cdd5eb.js.map"
     ],
     "component---src-pages-archives-js": [
       "component---src-pages-archives-js-06d6a249cec29a31c95d.js",
       "component---src-pages-archives-js-06d6a249cec29a31c95d.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-c400849744af905842db.js",
-      "component---src-layouts-index-js-c400849744af905842db.js.map"
+      "component---src-layouts-index-js-7249b031b21258514c89.js",
+      "component---src-layouts-index-js-7249b031b21258514c89.js.map"
+    ],
+    "path---wordpress-itself-is-not-a-website-builder": [
+      "path---wordpress-itself-is-not-a-website-builder-4aa4633fad03e6fea299.js",
+      "path---wordpress-itself-is-not-a-website-builder-4aa4633fad03e6fea299.js.map"
+    ],
+    "path---why-i-avoid-form-designers": [
+      "path---why-i-avoid-form-designers-34246528f63f95482def.js",
+      "path---why-i-avoid-form-designers-34246528f63f95482def.js.map"
+    ],
+    "path---when-youre-ready": [
+      "path---when-youre-ready-5c43cf55b7480ef50d6f.js",
+      "path---when-youre-ready-5c43cf55b7480ef50d6f.js.map"
+    ],
+    "path---interactive-web-pages-for-noobs": [
+      "path---interactive-web-pages-for-noobs-622ce6de9ec507cafba8.js",
+      "path---interactive-web-pages-for-noobs-622ce6de9ec507cafba8.js.map"
     ],
     "path---index": [
-      "path---index-ecad0679f7acfbcb0867.js",
-      "path---index-ecad0679f7acfbcb0867.js.map"
+      "path---index-ae59210d8bedacddfe98.js",
+      "path---index-ae59210d8bedacddfe98.js.map"
+    ],
+    "path---advantages-of-asking-for-help": [
+      "path---advantages-of-asking-for-help-7a1c94d9425758e566df.js",
+      "path---advantages-of-asking-for-help-7a1c94d9425758e566df.js.map"
+    ],
+    "path---when-automation-is-moral-my-opinion": [
+      "path---when-automation-is-moral-my-opinion-ae1943385cee824e3a91.js",
+      "path---when-automation-is-moral-my-opinion-ae1943385cee824e3a91.js.map"
+    ],
+    "path---unit-testing-js-with-jest": [
+      "path---unit-testing-js-with-jest-fe51c44fd6f3f1fa2cc7.js",
+      "path---unit-testing-js-with-jest-fe51c44fd6f3f1fa2cc7.js.map"
     ],
     "component---src-pages-404-js": [
-      "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
-      "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
+      "component---src-pages-404-js-8bc3c0b1f2e45fb8d20b.js",
+      "component---src-pages-404-js-8bc3c0b1f2e45fb8d20b.js.map"
     ],
     "commons": [
       "commons-403258ad126d5c26671b.js",
@@ -40,19 +108,71 @@
       "path---404-html-a0e39f21c11f6a62c5ab.js",
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
     ],
+    "path---farewell-hexo-hello-gatsby": [
+      "path---farewell-hexo-hello-gatsby-3b9951f829234e364f48.js",
+      "path---farewell-hexo-hello-gatsby-3b9951f829234e364f48.js.map"
+    ],
+    "path---an-implication-of-the-important-css-rule": [
+      "path---an-implication-of-the-important-css-rule-caec0d6fca50d1536e02.js",
+      "path---an-implication-of-the-important-css-rule-caec0d6fca50d1536e02.js.map"
+    ],
     "component---src-templates-post-js": [
       "component---src-templates-post-js-2e252a06fd8b622390cf.js",
       "component---src-templates-post-js-2e252a06fd8b622390cf.js.map"
     ],
+    "path---actionscript-flappy-bird-clone": [
+      "path---actionscript-flappy-bird-clone-55defcc6a9c58796611e.js",
+      "path---actionscript-flappy-bird-clone-55defcc6a9c58796611e.js.map"
+    ],
+    "path---my-2017-arduino-projects": [
+      "path---my-2017-arduino-projects-db7b3941a421289dacb7.js",
+      "path---my-2017-arduino-projects-db7b3941a421289dacb7.js.map"
+    ],
+    "path---react-navmenu-component-using-context-api": [
+      "path---react-navmenu-component-using-context-api-a32bbc021f84508acd04.js",
+      "path---react-navmenu-component-using-context-api-a32bbc021f84508acd04.js.map"
+    ],
+    "path---html-css-colour-cycling-effect": [
+      "path---html-css-colour-cycling-effect-2f8ce8527ac0555635b8.js",
+      "path---html-css-colour-cycling-effect-2f8ce8527ac0555635b8.js.map"
+    ],
+    "path---why-i-don-t-use-wordpress-for-my-blog": [
+      "path---why-i-don-t-use-wordpress-for-my-blog-90dc283f9c6ca9896e89.js",
+      "path---why-i-don-t-use-wordpress-for-my-blog-90dc283f9c6ca9896e89.js.map"
+    ],
     "app": [
-      "app-0c4eb8e7299d73e4df9c.js",
+      "app-03a78138df89b90e732e.js",
       "build-js-styles.css",
-      "app-0c4eb8e7299d73e4df9c.js.map",
+      "app-03a78138df89b90e732e.js.map",
       "build-js-styles.css.map"
+    ],
+    "path---thankyou-madebrave": [
+      "path---thankyou-madebrave-f0507ea838530d9237f4.js",
+      "path---thankyou-madebrave-f0507ea838530d9237f4.js.map"
+    ],
+    "path---i-ve-never-met-my-greatest-heroes": [
+      "path---i-ve-never-met-my-greatest-heroes-35c89c405d360cf79b79.js",
+      "path---i-ve-never-met-my-greatest-heroes-35c89c405d360cf79b79.js.map"
+    ],
+    "path---introduction-to-arduino-tinkercad": [
+      "path---introduction-to-arduino-tinkercad-f8a01bf6583661a36e52.js",
+      "path---introduction-to-arduino-tinkercad-f8a01bf6583661a36e52.js.map"
     ],
     "path---404": [
       "path---404-a0e39f21c11f6a62c5ab.js",
       "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---android-java-react-native-same-app-my-experience": [
+      "path---android-java-react-native-same-app-my-experience-8a147535fcfd3e89d9ac.js",
+      "path---android-java-react-native-same-app-my-experience-8a147535fcfd3e89d9ac.js.map"
+    ],
+    "path---why-i-chose-javascript": [
+      "path---why-i-chose-javascript-f8ae4bc9f6b897d0b22e.js",
+      "path---why-i-chose-javascript-f8ae4bc9f6b897d0b22e.js.map"
+    ],
+    "path---js-html-css-working-with-classes": [
+      "path---js-html-css-working-with-classes-1c30ebfdcb99222bcd50.js",
+      "path---js-html-css-working-with-classes-1c30ebfdcb99222bcd50.js.map"
     ]
   }
 }
