@@ -41,8 +41,8 @@
       "path---a-simplified-introduction-to-objects-in-javascript-3bf8c09df8264b57ae64.js.map"
     ],
     "path---archives": [
-      "path---archives-fe5fb5806a3e733decfd.js",
-      "path---archives-fe5fb5806a3e733decfd.js.map"
+      "path---archives-d81a12f074dbb7e55fbd.js",
+      "path---archives-d81a12f074dbb7e55fbd.js.map"
     ],
     "path---rush-or-take-time-coding": [
       "path---rush-or-take-time-coding-b050ed9e3df51f4f0981.js",
@@ -145,9 +145,9 @@
       "path---why-i-don-t-use-wordpress-for-my-blog-90dc283f9c6ca9896e89.js.map"
     ],
     "app": [
-      "app-12da226cd38f636d3fab.js",
+      "app-42b52aacf73d3be4aa8e.js",
       "build-js-styles.css",
-      "app-12da226cd38f636d3fab.js.map",
+      "app-42b52aacf73d3be4aa8e.js.map",
       "build-js-styles.css.map"
     ],
     "path---thankyou-madebrave": [
@@ -165,6 +165,10 @@
     "path---404": [
       "path---404-a0e39f21c11f6a62c5ab.js",
       "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---awesome-interactive-web-tutorials": [
+      "path---awesome-interactive-web-tutorials-9e2a889250dccd8c6e13.js",
+      "path---awesome-interactive-web-tutorials-9e2a889250dccd8c6e13.js.map"
     ],
     "path---android-java-react-native-same-app-my-experience": [
       "path---android-java-react-native-same-app-my-experience-8a147535fcfd3e89d9ac.js",
