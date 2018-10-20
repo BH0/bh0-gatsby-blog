@@ -41,8 +41,8 @@
       "path---a-simplified-introduction-to-objects-in-javascript-3bf8c09df8264b57ae64.js.map"
     ],
     "path---archives": [
-      "path---archives-d81a12f074dbb7e55fbd.js",
-      "path---archives-d81a12f074dbb7e55fbd.js.map"
+      "path---archives-68090978135bf802e0b3.js",
+      "path---archives-68090978135bf802e0b3.js.map"
     ],
     "path---rush-or-take-time-coding": [
       "path---rush-or-take-time-coding-b050ed9e3df51f4f0981.js",
@@ -61,8 +61,8 @@
       "component---src-pages-archives-js-06d6a249cec29a31c95d.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-409d70bde19eb8337a3d.js",
-      "component---src-layouts-index-js-409d70bde19eb8337a3d.js.map"
+      "component---src-layouts-index-js-d90a592a59fbbdacd6ee.js",
+      "component---src-layouts-index-js-d90a592a59fbbdacd6ee.js.map"
     ],
     "path---wordpress-itself-is-not-a-website-builder": [
       "path---wordpress-itself-is-not-a-website-builder-4aa4633fad03e6fea299.js",
@@ -81,16 +81,16 @@
       "path---interactive-web-pages-for-noobs-622ce6de9ec507cafba8.js.map"
     ],
     "path---index": [
-      "path---index-a11c0f703713bd9f3911.js",
-      "path---index-a11c0f703713bd9f3911.js.map"
+      "path---index-8a2e1a6830bf89b930a6.js",
+      "path---index-8a2e1a6830bf89b930a6.js.map"
+    ],
+    "path---my-5-programming-language-recommendations-for-beginners": [
+      "path---my-5-programming-language-recommendations-for-beginners-ff51a4f827ca9c8c86a6.js",
+      "path---my-5-programming-language-recommendations-for-beginners-ff51a4f827ca9c8c86a6.js.map"
     ],
     "path---advantages-of-asking-for-help": [
       "path---advantages-of-asking-for-help-7a1c94d9425758e566df.js",
       "path---advantages-of-asking-for-help-7a1c94d9425758e566df.js.map"
-    ],
-    "path---5-easy-open-source-contributions": [
-      "path---5-easy-open-source-contributions-f2385088ba8190854562.js",
-      "path---5-easy-open-source-contributions-f2385088ba8190854562.js.map"
     ],
     "path---when-automation-is-moral-my-opinion": [
       "path---when-automation-is-moral-my-opinion-ae1943385cee824e3a91.js",
@@ -145,9 +145,9 @@
       "path---why-i-don-t-use-wordpress-for-my-blog-90dc283f9c6ca9896e89.js.map"
     ],
     "app": [
-      "app-42b52aacf73d3be4aa8e.js",
+      "app-f0d13233f6b2a40dce19.js",
       "build-js-styles.css",
-      "app-42b52aacf73d3be4aa8e.js.map",
+      "app-f0d13233f6b2a40dce19.js.map",
       "build-js-styles.css.map"
     ],
     "path---thankyou-madebrave": [
@@ -165,10 +165,6 @@
     "path---404": [
       "path---404-a0e39f21c11f6a62c5ab.js",
       "path---404-a0e39f21c11f6a62c5ab.js.map"
-    ],
-    "path---awesome-interactive-web-tutorials": [
-      "path---awesome-interactive-web-tutorials-9e2a889250dccd8c6e13.js",
-      "path---awesome-interactive-web-tutorials-9e2a889250dccd8c6e13.js.map"
     ],
     "path---android-java-react-native-same-app-my-experience": [
       "path---android-java-react-native-same-app-my-experience-8a147535fcfd3e89d9ac.js",
