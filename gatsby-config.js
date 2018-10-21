@@ -1,3 +1,31 @@
+/*
+module.exports = {
+  siteMetadata: {
+    title: "BH0's Blog"
+  },
+  pathPrefix: `/bh0-gatsby-blog`, 
+  plugins: [
+    'gatsby-plugin-react-helmet', 
+    { 
+      resolve: `gatsby-source-filesystem`, 
+      options: { 
+        path: `${__dirname}/src/pages`, 
+        name: `pages` 
+      }
+    }, 
+  `gatsby-plugin-netlify-cms`,
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        path: `${__dirname}/blog`,
+        name: 'markdown-pages',
+      },
+    },
+    `gatsby-transformer-remark`
+  ],
+} 
+
+*/
 module.exports = {
   siteMetadata: {
     title: "BH0's Blog"
@@ -34,5 +62,4 @@ module.exports = {
     } 
   ],
 } 
-
 
